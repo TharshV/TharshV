@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tharshigan Vithiyananthan
 - 👀 I’m interested in learning about the software field, machine learning and AI
-- 🌱 I’m currently learning basic programming languages such as Java, Python, C++
+- 🌱 I’m currently learning programming languages such as Java, Python, C++
 - 💞️ I’m looking to collaborate on various side projects and hackathon projects
 - 📫 How to reach me --> https://www.linkedin.com/in/tharshiganv/
 
